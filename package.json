@@ -1,0 +1,12 @@
+{
+  "name": "project21-sitevisit-sync",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node scrape.js"
+  },
+  "dependencies": {
+    "playwright": "^1.41.0",
+    "node-fetch": "^3.3.2"
+  }
+}
